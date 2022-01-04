@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "todo": "watching movie",
+      "done": false,
+      "id": 1
+    },
+    {
+      "todo": "clean the house",
+      "done": true,
+      "id": 2
+    },
+    {
+      "todo": "ironing the clothes",
+      "done": false,
+      "id": 3
+    },
+    {
+      "todo": "throwing away the trash",
+      "done": true,
+      "id": 4
+    }
+  ]
+}
